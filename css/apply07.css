@@ -1,11 +1,11 @@
 /*
 Author:
 Date:
-File Name: 
+File Name:
 */
 
 /* CSS Reset */
-body, header, nav, main, footer, h1, div {
+body, header, nav, main, footer, h1, div, section, aside, article {
     margin: 0;
     padding: 0;
     border: 0;
@@ -56,12 +56,12 @@ footer {
 
 /* Media Query for Tablet Viewport */
 @media screen and (min-width: 650px), print {
-    
-    
+
+
 }
 
 /* Media Query for Desktop Viewport */
 @media screen and (min-width: 1024px), print {
 
-    
+
 }
